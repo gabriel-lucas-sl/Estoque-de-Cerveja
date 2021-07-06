@@ -13,18 +13,3 @@ funcionalidades da nossa API através do TDD.
 - Desenvolvimento de testes unitários para validação de funcionalides básicas: criação, listagem, consulta por nome e exclusão de cervejas.
 - TDD: apresentação e exemplo prático em 2 funcionaliades importantes: incremento e decremento do número de cervejas no estoque.
 
-## Resumos
-
-### Testes unitários
-
-- Maior número de testes, menor custo e tempo
-- Testes feito pelo próprio desenvolvedor
-- Rápidos, com base em linhas de códigos
-- Cobertura de vários cenários para as linhas
-
-Quando adicionamos a biblioteca Spring Boot Starter Test são adicionados todos os frameworks que precisamos como, jUnit, Mockito e 
-Hamcrest por exemplo.
-
-@InjectMock -
-
-@Mock - 
